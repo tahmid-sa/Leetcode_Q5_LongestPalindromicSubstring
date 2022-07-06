@@ -1,0 +1,4 @@
+﻿  Q5_LongestPalindromicSubstring.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q5_LongestPalindromicSubstring\Q5_LongestPalindromicSubstring\Q5_LongestPalindromicSubstring.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q5_LongestPalindromicSubstring\Q5_LongestPalindromicSubstring\Q5_LongestPalindromicSubstring.cpp(25,26): warning C4101: 'startJ': unreferenced local variable
+  Q5_LongestPalindromicSubstring.vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q5_LongestPalindromicSubstring\Debug\Q5_LongestPalindromicSubstring.exe
